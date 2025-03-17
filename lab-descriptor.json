@@ -10,78 +10,78 @@
     "collegeName": "IITB",
     "baseUrl": "ep2-iitb.vlabs.ac.in",
     "introduction": "Welcome to the Engineering Physics Virtual Lab. This lab is developed as a set of software modules to conduct physics laboratory experiments virtually. These experiments aim to replicate the hands-on experience of a real laboratory through interactive simulations, observations and graphs. Designed to be accessible via the internet, these experiments cater to a wide audience beyond the traditional classroom setting. The virtual lab covers a broad range of fundamental and modern physics experiments, including optics, quantum mechanics, electromagnetism, and semiconductor physics. Students can explore wave optics through interference and diffraction experiments, study semiconductor devices like diodes and transistors, and analyze quantum phenomena such as Planck’s constant and Hall Effect. These experiments provide a structured, engaging, and concept-driven learning experience, helping students develop a strong foundation in physics with the flexibility of remote experimentation.",
-    "experiments":[
-    {
-        "name": "Quincke’s Method: Mass Susceptibility of Paramagnetic Solution",
-        "short-name": "quincke-method",
-        "repo": "https://github.com/virtual-labs/exp-quincke-method-iitb",
-        "tag": "v1.0.0",
-        "deploy": true
-    },
-    {
-        "name": "Measurement of Magnetic Susceptibility by Gouy’s Method",
-        "short-name": "gouys-method",
-        "repo": "https://github.com/virtual-labs/exp-gouys-method-iitb",
-        "tag": "v1.0.0",
-        "deploy": true
-    },
-    {
-        "name": "Dielectric Constant and Curie Temperature Measurement",
-        "short-name": "dielectric-curie",
-        "repo": "https://github.com/virtual-labs/exp-dielectric-curie-iitb",
-        "tag": "v1.0.0",
-        "deploy": true
-    },
-    {
-        "name": "Divergence of Given Laser Beam",
-        "short-name": "divergence-laser-beam",
-        "repo": "https://github.com/virtual-labs/exp-divergence-laser-beam-iitb",
-        "tag": "v1.0.0",
-        "deploy": true
-    },
-    {
-        "name": "Charge to Mass Ratio of Electrons",
-        "short-name": "mass-ratio-electrons",
-        "repo": "https://github.com/virtual-labs/exp-mass-ratio-electrons-iitb",
-        "tag": "v1.0.0",
-        "deploy": true
-    },
-    {
-        "name": "Planck’s Constant to Electron Charge Value and Work Function",
-        "short-name": "planck-constant",
-        "repo": "https://github.com/virtual-labs/exp-planck-constant-iitb",
-        "tag": "v1.0.0",
-        "deploy": true
-    },
-    {
-        "name": "Michelson Interferometer: Wavelength and Refractive Index Measurement",
-        "short-name": "michelson-interferometer",
-        "repo": "https://github.com/virtual-labs/exp-michelson-interferometer-iitb",
-        "tag": "v1.0.0",
-        "deploy": true
-    },
-    {
-        "name": "Young’s Double Slit Experiment for Measuring Wavelength of Light",
-        "short-name": "young-double-slit",
-        "repo": "https://github.com/virtual-labs/exp-young-double-slit-iitb",
-        "tag": "v1.0.0",
-        "deploy": true
-    },
-    {
-        "name": "Characteristic Curve of a Forward Biased P-N Junction Diode",
-        "short-name": "resistance-diode",
-        "repo": "https://github.com/virtual-labs/exp-resistance-diode-iitb",
-        "tag": "v1.0.0",
-        "deploy": true
-    },
-    {
-        "name": "Characteristics of an NPN/PNP Transistor in Common Emitter Mode",
-        "short-name": "transistor-emitter-mode",
-        "repo": "https://github.com/virtual-labs/exp-transistor-emitter-mode-iitb",
-        "tag": "v1.0.0",
-        "deploy": true
-    }
-],
+    "experiments": [
+        {
+            "name": "Quincke’s Method: Mass Susceptibility of Paramagnetic Solution",
+            "short-name": "quincke-method",
+            "repo": "https://github.com/virtual-labs/exp-quincke-method-iitb",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Measurement of Magnetic Susceptibility by Gouy’s Method",
+            "short-name": "gouys-method",
+            "repo": "https://github.com/virtual-labs/exp-gouys-method-iitb",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Dielectric Constant and Curie Temperature Measurement",
+            "short-name": "dielectric-curie",
+            "repo": "https://github.com/virtual-labs/exp-dielectric-curie-iitb",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Divergence of Given Laser Beam",
+            "short-name": "divergence-laser-beam",
+            "repo": "https://github.com/virtual-labs/exp-divergence-laser-beam-iitb",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Charge to Mass Ratio of Electrons",
+            "short-name": "mass-ratio-electrons",
+            "repo": "https://github.com/virtual-labs/exp-mass-ratio-electrons-iitb",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Planck’s Constant to Electron Charge Value and Work Function",
+            "short-name": "planck-constant",
+            "repo": "https://github.com/virtual-labs/exp-planck-constant-iitb",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Michelson Interferometer: Wavelength and Refractive Index Measurement",
+            "short-name": "michelson-interferometer",
+            "repo": "https://github.com/virtual-labs/exp-michelson-interferometer-iitb",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Young’s Double Slit Experiment for Measuring Wavelength of Light",
+            "short-name": "young-double-slit",
+            "repo": "https://github.com/virtual-labs/exp-young-double-slit-iitb",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Characteristic Curve of a Forward Biased P-N Junction Diode",
+            "short-name": "resistance-diode",
+            "repo": "https://github.com/virtual-labs/exp-resistance-diode-iitb",
+            "tag": "v1.0.0",
+            "deploy": true
+        },
+        {
+            "name": "Characteristics of an NPN/PNP Transistor in Common Emitter Mode",
+            "short-name": "transistor-emitter-mode",
+            "repo": "https://github.com/virtual-labs/exp-transistor-emitter-mode-iitb",
+            "tag": "v1.0.0",
+            "deploy": true
+        }
+    ],
     "targetAudience": {
         "UG": []
     },
@@ -89,12 +89,12 @@
     "courseAlignment": {
         "description": "The syllabi of this lab aligns to the following universities in India.",
         "universities": [
-            "BSC 102 - Laboratory - Oscillations, waves and optics [L : 0; T:0 ; P : 3 (1.5 credits)]"
-            "BS102 –Physics"
-            "BS104 Physics Lab 0L:0T:3P 1.5 credits"
-            "Dr. Babasaheb Ambedkar Marathwada University, Aurangabad, Maharashtra; Engineering Physics; Common to all first year students"
-            "Dr. Babasaheb Ambedkar Technical University, Lonere, Maharashtra; Engineering Physics; Common to all first year students"
-            "Savitribai Phule Pune University, engineering physics, Common to all first year students"
+            "BSC 102 - Laboratory - Oscillations, waves and optics [L : 0; T:0 ; P : 3 (1.5 credits)]",
+            "BS102 –Physics",
+            "BS104 Physics Lab 0L:0T:3P 1.5 credits",
+            "Dr. Babasaheb Ambedkar Marathwada University, Aurangabad, Maharashtra; Engineering Physics; Common to all first year students",
+            "Dr. Babasaheb Ambedkar Technical University, Lonere, Maharashtra; Engineering Physics; Common to all first year students",
+            "Savitribai Phule Pune University, engineering physics, Common to all first year students",
             "University of Mumbai university, engineering physics, first year engineering"
         ]
     }
